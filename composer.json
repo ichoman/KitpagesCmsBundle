@@ -16,12 +16,12 @@
     ],
     "require": {
         "php": ">=5.3.3",
-        "symfony/framework-bundle": "2.0.*",
-        "symfony/security-bundle": "2.0.*",
-        "symfony/doctrine-bundle": "2.0.*",
-        "sensio/framework-extra-bundle": "2.0.*",
+        "symfony/framework-bundle": "*",
+        "symfony/security-bundle": "*",
+        "symfony/doctrine-bundle": "*",
+        "sensio/framework-extra-bundle": "*",
         "doctrine/orm": "*",
-        "stof/doctrine-extensions-bundle" : "1.x",
+        "stof/doctrine-extensions-bundle" : "*",
         "kitpages/file-bundle": ">=v2.0.0",
         "kitpages/util-bundle": ">=v1.0.0",
         "kitpages/simple-cache-bundle": ">=v1.0.0"
