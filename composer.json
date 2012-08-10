@@ -1,5 +1,5 @@
 {
-    "name": "kitpages/cms-bundle",
+    "name": "ichoman/kitpages-cms-bundle",
     "type": "symfony-bundle",
     "description": "Kitpages CMS",
     "keywords": ["CMS", "Content management system"],
